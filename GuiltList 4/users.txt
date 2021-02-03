@@ -1,0 +1,13 @@
+1,1,1
+2,3,erg
+r,2,daniel@gmail.com
+a,a,a
+danielr,dan,1
+dani,1,1
+q,q,q
+v,v,v
+da,1,d
+da,a,da
+da,da,a
+hola,hola@gmail.com,hola
+chao,chao,chao@gmail.com
